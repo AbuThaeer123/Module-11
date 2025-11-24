@@ -63,7 +63,7 @@ MyList.push_front(30)
 MyList.PrintList()
 ```
 ## Sample Output
-![Uploading image.png…]()
+<img width="768" height="189" alt="image" src="https://github.com/user-attachments/assets/03f9deeb-2ccd-4e54-aee9-1303b6911d09" />
 
 ## Result
 Thus the program has been successfully executed
